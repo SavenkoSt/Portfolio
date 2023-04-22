@@ -31,6 +31,10 @@
 ![4st12 858 pcb](https://user-images.githubusercontent.com/121791547/210490588-48078dfe-7a0b-4f98-97fd-dafd3ac99f27.jpeg)
 ![4st12 858](https://user-images.githubusercontent.com/121791547/210490593-a613565b-30e9-4f48-9818-d80680a75d74.jpeg)
 ![4st12](https://user-images.githubusercontent.com/121791547/210490595-426260a1-785e-4c41-8e07-e259f5e8527a.jpeg)
+![IMG_20230104_120427](https://user-images.githubusercontent.com/121791547/233774700-7f104b0b-272f-4c66-ab5f-02458bdef221.jpg)
+![IMG_20230104_120958](https://user-images.githubusercontent.com/121791547/233774707-0dc975b8-e5aa-4f03-a00e-0ac7f84f2254.jpg)
+![IMG_20230104_121017](https://user-images.githubusercontent.com/121791547/233774709-396b6710-5fee-41e3-810e-c5c0c6b27624.jpg)
+
 
 --------------------------------------------------------------
 
