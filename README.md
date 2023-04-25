@@ -8,22 +8,25 @@
   ----Control devices for vacuum circuit breakers and contactors----------------
   ![bu52](https://user-images.githubusercontent.com/121791547/210490596-3881d87b-d801-4a51-837d-11fdf1844f35.jpeg)
   ![buvk](https://user-images.githubusercontent.com/121791547/210490598-9fa4e61f-f78f-4776-9882-33edaa39c08e.jpeg)
-  
+  ![BU_Ed](https://user-images.githubusercontent.com/121791547/234201305-16a631b8-5b0f-4780-808f-ec246675285d.jpg)
+
   --------------------------------------------------------------
   
-  ---- Блок релейной защиты
-  
+  ---- Relay Protection unit
+  ![MKZP](https://user-images.githubusercontent.com/121791547/234201333-06819ec8-2ee3-4c8c-a3e7-47f0e624673c.jpg)
+
   --------------------------------------------------------------
   
-  ---- Блок контроля изоляции
-  
+  ---- Insulation control unit
+  ![BKI](https://user-images.githubusercontent.com/121791547/234201496-c1c49d13-8182-4b3a-88aa-3e812e65219a.jpg)
+
   --------------------------------------------------------------
   
-  ---- Блок питания с удвоителем
-  
+  ---- Сapacitor doubler power supply unit
+  ![BU_Cap](https://user-images.githubusercontent.com/121791547/234201859-690eb7f0-064d-40d7-8086-deb5a8e7fb48.jpg)
+
   --------------------------------------------------------------
-  
-  
+   
   
   ---- Soldering stations for tips HakkoT12 and soldering gun 858
 ![4st12 858 pcb](https://user-images.githubusercontent.com/121791547/210490588-48078dfe-7a0b-4f98-97fd-dafd3ac99f27.jpeg)
