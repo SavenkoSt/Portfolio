@@ -18,7 +18,7 @@
 
   --------------------------------------------------------------
     
-  **Сapacitor doubler power supply unit**
+  **Voltage doubler power supply unit**
   
   ![BU_Cap](https://user-images.githubusercontent.com/121791547/234201859-690eb7f0-064d-40d7-8086-deb5a8e7fb48.jpg)
 
