@@ -15,7 +15,7 @@
   
   **Relay Protection and Insulation control units**
   
-  ![MKZP](https://user-images.githubusercontent.com/121791547/234201333-06819ec8-2ee3-4c8c-a3e7-47f0e624673c.jpg) ![BKI](https://user-images.githubusercontent.com/121791547/234201496-c1c49d13-8182-4b3a-88aa-3e812e65219a.jpg)
+![mkbk](https://user-images.githubusercontent.com/121791547/235697721-711d076a-617a-4509-8910-2e4881e8339b.jpg)
   --------------------------------------------------------------------------------
     
   **Voltage doubler power supply unit**
